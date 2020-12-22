@@ -8,6 +8,8 @@ import spade7 from '../Images/7spades.png';
 import spade9 from '../Images/9spades.png';
 import spadeK from '../Images/Kingspades.png';
 import spadeQ from '../Images/Queenspades.png';
+import EthanP from '../Images/EthanProblem.png';
+import cityBurn from '../Images/CitytoBurn.gif';
 import { Typography } from 'antd';
 
 const { Title } = Typography;
@@ -83,7 +85,7 @@ export class Homepage extends React.Component {
                     </div>
                     <div className="App" id="check">
                         <header>
-                            Who would open the lock of Christmas must answer me these questions three, ere the opened box he see.
+                            <Title level={3}>Who would open the lock of Christmas must answer me these questions three, ere the opened box he see.</Title>
                         </header>
                         <List
                             size="large"
@@ -127,14 +129,23 @@ export class Homepage extends React.Component {
                 </div>
                 <div className="App" id="checkEthan">
                     <header>
-                        Ethan's Stuff
+                        Select the Correct One
                     </header>
-                    <List
-                        size="large"
-                        bordered
-                        dataSource={data}
-                        renderItem={item => <List.Item>{item}</List.Item>}
-                    />
+                    <Row gutter={16}>
+                        <Col span={8}>
+                            <img src={EthanP} alt="Girl in a jacket" width="500" height="600" />
+                        </Col>
+                        <Col span={8}>
+                            <img src={spade4} alt="Girl in a jacket" width="500" height="600" />
+                        </Col>
+                        <Col span={8}>
+                            <img src={cityBurn} alt="Girl in a jacket" width="500" height="600" />
+                        </Col>
+                    </Row>
+                    <header>
+                        Solve the Problem
+                    </header>
+                    <img src={EthanP} alt="Girl in a jacket" width="500" height="600" />
                 </div>
                 </div>
             </>
