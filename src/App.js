@@ -18,10 +18,10 @@ export default function App() {
             <Route exact path="/my-app">
               <Home />
             </Route>
-            <Route exact path="/first">
+            <Route exact path="/my-app/first">
               <First />
             </Route>
-            <Route exact path="/brian">
+            <Route exact path="/my-app/brian">
               <BrianPage />
             </Route>
           </Switch>

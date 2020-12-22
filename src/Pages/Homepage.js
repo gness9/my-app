@@ -12,12 +12,12 @@ export class Homepage extends React.Component {
                         <Row gutter={16}>
                             <Col span={8}>
                                 <Card title="Test" bordered={false}>
-                                    <a href="/first">Homepage</a>
+                                    <a href="/my-app/first">Homepage</a>
                                 </Card>
                             </Col>
                             <Col span={8}>
                                 <Card title="Card title" bordered={false}>
-                                    <a href="/Brian">Card content</a>
+                                    <a href="/my-app/Brian">Card content</a>
                                 </Card>
                             </Col>
                             <Col span={8}>
