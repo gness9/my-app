@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.d3037149.chunk.css",
-    "main.js": "/my-app/static/js/main.c5aeea4c.chunk.js",
-    "main.js.map": "/my-app/static/js/main.c5aeea4c.chunk.js.map",
+    "main.js": "/my-app/static/js/main.40fcf760.chunk.js",
+    "main.js.map": "/my-app/static/js/main.40fcf760.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.1e2f9902.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.1e2f9902.js.map",
     "static/css/2.4d98ed14.chunk.css": "/my-app/static/css/2.4d98ed14.chunk.css",
@@ -18,6 +18,8 @@
     "static/media/4spades.bdf8fc38.png": "/my-app/static/media/4spades.bdf8fc38.png",
     "static/media/7spades.836588f9.png": "/my-app/static/media/7spades.836588f9.png",
     "static/media/9spades.d323338f.png": "/my-app/static/media/9spades.d323338f.png",
+    "static/media/CitytoBurn.2dd36637.gif": "/my-app/static/media/CitytoBurn.2dd36637.gif",
+    "static/media/EthanProblem.4e0af0c5.png": "/my-app/static/media/EthanProblem.4e0af0c5.png",
     "static/media/Kingspades.be56345e.png": "/my-app/static/media/Kingspades.be56345e.png",
     "static/media/Queenspades.f16eace0.png": "/my-app/static/media/Queenspades.f16eace0.png",
     "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
@@ -27,6 +29,6 @@
     "static/css/2.4d98ed14.chunk.css",
     "static/js/2.4fafd806.chunk.js",
     "static/css/main.d3037149.chunk.css",
-    "static/js/main.c5aeea4c.chunk.js"
+    "static/js/main.40fcf760.chunk.js"
   ]
 }
