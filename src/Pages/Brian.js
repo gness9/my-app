@@ -20,7 +20,7 @@ export class Brian extends React.Component {
                     </header>
                     <Row gutter={15}>
                         <Col span={3}>
-                            <img src="../Images/2spades.png" alt="Girl in a jacket" width="500" height="600" />
+                            <img src="../CSS/2spades.png" alt="Girl in a jacket" width="500" height="600" />
                         </Col>
                         <Col span={3}>
                             <Card title="Card title" bordered={false}>
