@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.d3037149.chunk.css",
-    "main.js": "/my-app/static/js/main.40fcf760.chunk.js",
-    "main.js.map": "/my-app/static/js/main.40fcf760.chunk.js.map",
+    "main.css": "/my-app/static/css/main.00d53301.chunk.css",
+    "main.js": "/my-app/static/js/main.869ed364.chunk.js",
+    "main.js.map": "/my-app/static/js/main.869ed364.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.1e2f9902.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.1e2f9902.js.map",
     "static/css/2.4d98ed14.chunk.css": "/my-app/static/css/2.4d98ed14.chunk.css",
@@ -12,15 +12,19 @@
     "static/js/3.638572b4.chunk.js.map": "/my-app/static/js/3.638572b4.chunk.js.map",
     "index.html": "/my-app/index.html",
     "static/css/2.4d98ed14.chunk.css.map": "/my-app/static/css/2.4d98ed14.chunk.css.map",
-    "static/css/main.d3037149.chunk.css.map": "/my-app/static/css/main.d3037149.chunk.css.map",
+    "static/css/main.00d53301.chunk.css.map": "/my-app/static/css/main.00d53301.chunk.css.map",
     "static/js/2.4fafd806.chunk.js.LICENSE.txt": "/my-app/static/js/2.4fafd806.chunk.js.LICENSE.txt",
     "static/media/2spades.6460e9d3.png": "/my-app/static/media/2spades.6460e9d3.png",
     "static/media/4spades.bdf8fc38.png": "/my-app/static/media/4spades.bdf8fc38.png",
     "static/media/7spades.836588f9.png": "/my-app/static/media/7spades.836588f9.png",
     "static/media/9spades.d323338f.png": "/my-app/static/media/9spades.d323338f.png",
+    "static/media/ChristmasHead.a0e1aa94.jpg": "/my-app/static/media/ChristmasHead.a0e1aa94.jpg",
     "static/media/CitytoBurn.2dd36637.gif": "/my-app/static/media/CitytoBurn.2dd36637.gif",
     "static/media/EthanProblem.4e0af0c5.png": "/my-app/static/media/EthanProblem.4e0af0c5.png",
     "static/media/Kingspades.be56345e.png": "/my-app/static/media/Kingspades.be56345e.png",
+    "static/media/PresleyGreen.f9e4fda0.png": "/my-app/static/media/PresleyGreen.f9e4fda0.png",
+    "static/media/PresleyRed.79c10a52.png": "/my-app/static/media/PresleyRed.79c10a52.png",
+    "static/media/PresleyYellow.d9ebe68d.png": "/my-app/static/media/PresleyYellow.d9ebe68d.png",
     "static/media/Queenspades.f16eace0.png": "/my-app/static/media/Queenspades.f16eace0.png",
     "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
   },
@@ -28,7 +32,7 @@
     "static/js/runtime-main.1e2f9902.js",
     "static/css/2.4d98ed14.chunk.css",
     "static/js/2.4fafd806.chunk.js",
-    "static/css/main.d3037149.chunk.css",
-    "static/js/main.40fcf760.chunk.js"
+    "static/css/main.00d53301.chunk.css",
+    "static/js/main.869ed364.chunk.js"
   ]
 }
