@@ -96,7 +96,7 @@ export class Homepage extends React.Component {
                                 </Card>
                             </Col>
                             <Col span={8}>
-                                <Card title="Ethan's Gifts" bordered={false}>
+                                <Card title="Brian's Gifts" bordered={false}>
                                     <Button onClick={activateBrian}>Click Me</Button>
                                 </Card>
                             </Col>
